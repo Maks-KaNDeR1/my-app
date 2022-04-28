@@ -1,0 +1,11 @@
+.items {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+}
+
+
+.item div {
+    margin: 1px;
+}

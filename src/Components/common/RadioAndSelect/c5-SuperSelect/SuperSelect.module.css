@@ -1,0 +1,13 @@
+
+.select {
+    width: 200px;
+    padding: 5px;
+    padding-right: 30px;
+    /* height: 100px; */
+    cursor: pointer;
+    background-color: #ebe1eb;
+    margin: 1px;
+    box-shadow: inset 0 0 0 0.125em #844685;
+    border-radius: 10px;
+    font-size: large;
+}
